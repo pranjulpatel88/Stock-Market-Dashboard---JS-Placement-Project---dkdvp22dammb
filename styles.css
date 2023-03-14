@@ -20,7 +20,7 @@ h4 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(88, 110, 109);
+    background-color: rgb(70, 177,170 );
     height: 50px;
     width: 320px;
     border-radius: 10px;
@@ -45,7 +45,7 @@ h4 {
 }
 
 .container-search {
-    background-color: rgb(111, 134, 134);
+    background-color: rgb(171, 211, 211);
     height: 140px;
     width: 320px;
     border-radius: 10px;
