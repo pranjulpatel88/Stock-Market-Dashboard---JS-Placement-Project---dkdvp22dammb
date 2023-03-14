@@ -57,7 +57,7 @@ h4 {
 }
 
 .container-input {
-    background-color: rgb(108, 138, 138);
+    background-color: rgb(171, 211, 211);
     height: 50px;
     width: 320px;
     display: flex;
@@ -71,7 +71,7 @@ h4 {
     height: 37px;
     width: 245px;
     border-radius: 17px;
-    background-color: rgb(59, 83, 82);
+    background-color: rgb(70, 177, 70);
     color: black;
     padding: 6px 0px 6px 6px;
 
@@ -80,7 +80,7 @@ h4 {
 
 .fa-magnifying {
 
-    background-color: rgb(75, 102, 100);
+    background-color: rgb(70, 177, 170);
     color: rgb(171, 211, 211);
     text-align: center;
     width: 37px;
@@ -105,7 +105,7 @@ h4 {
 }
 
 .select-name {
-    background-color: rgb(67, 92, 90);
+    background-color: rgb(70, 177, 170);
     height: 27px;
     width: 150px;
     border-radius: 18px;
@@ -120,13 +120,13 @@ h4 {
 .container-watchlist {
     height: 250px;
     width: 320px;
-    background-color: rgb(122, 150, 150);
+    background-color: rgb(171, 211, 211);
     border-radius: 10px;
     overflow: scroll;
 }
 
 .Watchlist-input {
-    background-color: #a2bdbd;
+    background-color: #caf3f3;
     width: 275px;
     border: none;
     height: 37px;
@@ -212,7 +212,7 @@ h4 {
 table {
     font-weight: bold;
     font-size: 12px;
-    background-color: #324444;
+    background-color: #caf3f3;
     overflow: scroll;
     height: 50px;
     margin: -15px 0px 0px 4px;
